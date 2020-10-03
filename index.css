@@ -1,0 +1,126 @@
+body{
+    background-color: aliceblue;
+    color: darkgrey;
+    font-size: 21px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 70px;
+    color: rgb(99, 206, 206);
+}
+h6{
+    font-size: 10px;
+    color: black;
+    margin-right: 200px;
+}
+p {
+    font-size: 18px;
+color: black;
+}
+
+.box{
+   background-color: rgb(192, 222, 231);
+    width: 300px; 
+    margin: 300px;
+
+    margin-top: auto;
+    margin-left: 680px;
+    margin-right: auto;
+    margin-bottom: auto;
+    padding: 20px;
+
+    border-width: 5px;
+    border-style: groove; 
+    border-color: black;
+}
+
+.box2{
+    background-color: rgb(192, 222, 231);
+    width: 300px; 
+    margin: 300px;
+
+    margin-top: 30px;
+    margin-left: 600px;
+    margin-right: 500px;
+    margin-bottom: auto;
+    padding: 90px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    border-width: 5px;
+    border-style: groove;
+    border-color: black;
+
+
+    
+}
+
+.box3{
+    background-color: rgb(221, 190, 221);
+    width: 300px;
+    margin: 300px;
+     
+    margin-top: 5px;
+    margin-left: 190px;
+    position: absolute;
+    top: 170px;
+    padding-bottom: 40px;
+    
+
+
+    border-width: 5px;
+    border-style: dotted;
+    border-color: black;
+    font-size: 30px;
+    font-family: monospace;
+
+    
+}
+
+
+
+.box4{
+     background-color:rgb(221, 190, 221);
+     width: 300px;
+     margin: 300px;
+
+     margin-top: 5px;
+     margin-left: 1200px;
+     margin-right: 500px;
+     position: absolute;
+     top: 160px;
+     padding-bottom: 80px;
+     padding-top: 10px;
+
+     border-width: 5px;
+     border-style: dotted;
+     border-color: black;
+     font-family: monospace;
+     
+
+}
+ul{
+    font-style: oblique;
+    
+}
+
+.box5{
+    background-color:rgb(221, 190, 221);
+    width: 300px;
+    margin: 300px;
+
+    margin-top: 5px;
+    margin-left:190px;
+     position: absolute;
+     top: 600px;
+     padding-bottom: 50px;
+
+     border-width: 5px;
+     border-style: dotted;
+     border-color: black;
+     font-size: 30px;
+     font-family: monospace;
+
+  
+}
+
